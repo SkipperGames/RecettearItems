@@ -1,0 +1,7 @@
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Recettear All Items\Recettear All Items\obj\x86\Debug\Recettear_All_Items.Form1.resources
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Recettear All Items\Recettear All Items\obj\x86\Debug\Recettear_All_Items.Properties.Resources.resources
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Recettear All Items\Recettear All Items\obj\x86\Debug\Recettear All Items.csproj.GenerateResource.Cache
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Recettear All Items\Recettear All Items\bin\Debug\Recettear All Items.exe
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Recettear All Items\Recettear All Items\bin\Debug\Recettear All Items.pdb
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Recettear All Items\Recettear All Items\obj\x86\Debug\Recettear All Items.exe
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\Recettear All Items\Recettear All Items\obj\x86\Debug\Recettear All Items.pdb
